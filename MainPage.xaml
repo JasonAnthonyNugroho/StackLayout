@@ -36,6 +36,8 @@
             <Button x:Name="roundDown" Text="Round Down" />
             <Button x:Name="roundUp"   Text="Round Up" />
         </HorizontalStackLayout>
+
+        <Button Text="15%" WidthRequest="150" HorizontalOptions="Center" ... />
     </VerticalStackLayout>
 
 </ContentPage>
